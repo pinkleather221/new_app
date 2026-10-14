@@ -1,7 +1,7 @@
 [project]
-name = "new-app"
+name = "retail-travel-analytics"
 version = "0.1.0"
-description = "Add your description here"
+description = "Exploratory data analysis of pharmacy retail sales and travel package bookings."
 readme = "README.md"
 authors = [
     { name = "pinkleather221", email = "nellymogere2002@gmail.com" }
@@ -16,7 +16,7 @@ dependencies = [
 ]
 
 [project.scripts]
-new-app = "new_app:main"
+retail-travel-analytics = "retail_travel_analytics:main"
 
 [build-system]
 requires = ["uv_build>=0.12.23,<0.13.0"]
