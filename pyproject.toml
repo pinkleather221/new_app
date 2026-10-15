@@ -1,7 +1,7 @@
 [project]
 name = "retail-travel-analytics"
 version = "0.1.0"
-description = "Exploratory data analysis of pharmacy retail sales and travel package bookings."
+description = "Exploratory data analysis of Kenyan pharmacy retail sales and multi-year (2023-2025) travel package bookings, covering data cleaning, feature engineering and business insights."
 readme = "README.md"
 authors = [
     { name = "pinkleather221", email = "nellymogere2002@gmail.com" }
